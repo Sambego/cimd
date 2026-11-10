@@ -2,7 +2,7 @@
   "client_id": "https://cimd.sambego.tech/client-metadata",
   "client_name": "Sambego CIMD Demo",
   "client_uri": "https://cimd.sambego.tech",
-  "application_type": "regular_web",
+  "application_type": "web",
   "redirect_uris": [
     "http://localhost:6274/oauth/callback",
     "http://127.0.0.1:6274/oauth/callback"
