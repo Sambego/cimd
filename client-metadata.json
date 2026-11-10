@@ -1,5 +1,5 @@
 {
-  "client_id": "https://cimd.sambego.tech/client-metadata.json",
+  "client_id": "https://cimd.sambego.tech/client-metadata",
   "client_name": "Sambego CIMD Demo",
   "client_uri": "https://cimd.sambego.tech",
   "application_type": "regular_web",
