@@ -1,0 +1,13 @@
+{
+  "client_id": "https://cimd.sambego.tech/client-metadata.json",
+  "client_name": "Sambego CIMD Demo",
+  "client_uri": "https://cimd.sambego.tech",
+  "application_type": "regular_web",
+  "redirect_uris": [
+    "http://localhost:6274/oauth/callback",
+    "http://127.0.0.1:6274/oauth/callback"
+  ],
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none"
+}
